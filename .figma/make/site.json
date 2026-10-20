@@ -1,0 +1,10 @@
+{
+  "description": "Connect farmers and customers through a user-friendly platform for ordering fresh produce, managing deliveries, and accessing market analytics.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
